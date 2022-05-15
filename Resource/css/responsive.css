@@ -1,0 +1,182 @@
+@media only screen and (max-width: 1024px){
+    #headSection ul li a{
+        padding: 0 2rem;
+    }
+    html{
+        font-size: 55.5%;
+    }
+    .coll{
+        width:23%;
+    }
+    .coll h3{
+        font-size: 2.6rem;
+    }
+    .coll2{
+        width:23.5%;
+    }
+    .coll4 img{
+        width:40rem;
+    }
+    .coll5{
+        width:46rem;
+    }
+    .formSection{
+        width:90%;
+    }
+}
+@media only screen and (max-width: 768px){
+    #topNavBar h2{
+        font-size: 3.5rem;
+    }
+    .menuArea ul{
+        display: none;
+    }
+    html{
+        font-size: 50.5%;
+    }
+    .mobileMenu span i{
+        display: block;
+    }
+    .sticky .mobileMenu span i{
+        margin-top: 1rem;
+    }
+    .coll{
+        width:50%;
+        margin: 0;
+    }
+    .coll2{
+        width:50%;
+        margin: 0;
+    }
+    .coll3{
+        width:50%;
+        margin-top:3rem;
+    }
+    .coll4 img{
+        width:100%;
+        margin: 0 auto;
+        
+    }
+    .coll5{
+        float:left;
+        text-align:center;
+        width:35rem;
+        margin:0 3rem;
+    }
+    .coll6{
+        float:right;
+        text-align:center;
+        width:35rem;
+        margin:0 3rem;
+    }
+    .aboutHead p{
+        margin-bottom: 0;
+    }
+    .com, 
+    .com3{
+        float:none;
+        margin-top:5rem;
+    }
+    .com img,
+    .com3 img{
+        margin-bottom: 2rem;
+        margin-right: 0;
+        text-align: center;
+    }
+    .com2 p{
+        width:35rem;
+    }
+    #about{
+        padding: 8rem 0;
+    }
+    .menuBar2 ul li a{
+        font-size: 2rem;
+        padding: 0 1rem;
+    }
+}
+@media only screen and (max-width: 414px){
+    #headSection{
+        height:45rem;
+    }
+    #topNavBar h2{
+        margin-top: -12rem;
+    }
+    .serviceHed h2{
+        font-size: 3rem;
+    }
+    .serviceHed p{
+        width:100%;
+    }
+    .coll{
+        width:100%;
+    }
+    .coll img{
+        margin-top: 8rem;
+    }
+    #meatOur h2{
+        font-size: 2.5rem;
+    }
+    .coll2{
+        width:100%;
+    }
+    .skillTop p{
+        width:100%;
+    }
+    .coll3{
+        width:100%;
+        margin-top: 5rem;
+    }
+    .topProt p{
+        width:100%;
+    }
+    .menuSec ul li a{
+        padding: .8rem 1.5rem;
+    }
+    .aboutHead h2{
+        font-size: 2.7rem;
+    }
+    .coll5{
+        float:none;
+        width:100%;
+        
+    }
+    .coll6{
+        float:none;
+        width:100%;
+        
+    }
+    .com2 p{
+        text-align: center;
+        width:100%;
+    }
+    .touchHead p{
+        width:100%;
+    }
+    .form1st input{
+        width:100%;
+    }
+    .form2nd input{
+        width:100%;
+        margin-top: 2rem;
+    }
+    .menuBar2 ul li a{
+        padding: 0rem 1.5rem;
+        width:100%;
+    }
+}
+@media only screen and (max-width: 375px){
+    #headSection{
+        height:50rem;
+    }
+}
+@media only screen and (max-width: 320px){
+    .menuSec ul li a{
+        padding: .8rem 1rem;
+    }
+    .coll4 p{
+        font-size: 2rem;
+    }
+    .menuBar2 ul li a{
+        padding: 0 1rem;
+    }
+}
